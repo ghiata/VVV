@@ -44,3 +44,7 @@
 # And a few of our web directories are important to share.
 /www/default/*
 !/www/default/index.php
+
+# And halloboekarest.com
+/www/halloboekarest.com/vvv-init.sh
+/www/halloboekarest.com/vvv-nginx.conf

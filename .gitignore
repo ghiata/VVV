@@ -46,5 +46,7 @@
 !/www/default/index.php
 
 # And halloboekarest.com
+!/www/halloboekarest.com
+/www/halloboekarest.com/*
 !/www/halloboekarest.com/vvv-init.sh
 !/www/halloboekarest.com/vvv-nginx.conf
